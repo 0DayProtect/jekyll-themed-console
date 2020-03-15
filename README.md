@@ -10,7 +10,7 @@ Download a Debian livecd
 sudo rm /etc/apt/sources.list
 echo 'deb https://deb.debian.org/debian/ buster main' | sudo tee -a /etc/apt/sources.list
 echo '#deb-src http://deb.debian.org/debian/ buster' | sudo tee -a /etc/apt/sources.list
-sudo apt update
+sudo apt-get update
 
 sudo apt-get install ruby-full build-essential zlib1g-dev git
 
