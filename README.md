@@ -12,7 +12,7 @@ echo 'deb https://deb.debian.org/debian/ buster main' | sudo tee -a /etc/apt/sou
 echo '#deb-src http://deb.debian.org/debian/ buster' | sudo tee -a /etc/apt/sources.list
 sudo apt-get update
 
-sudo apt-get install ruby-full build-essential zlib1g-dev git
+sudo apt-get -y install ruby-full build-essential zlib1g-dev git
 
 echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
