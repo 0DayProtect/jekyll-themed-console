@@ -3,8 +3,8 @@
 #google_analytics: UA-NNNNNNNN-N
 
 #header_pages:
-#  - index.md
-#  - about.md
+#  - index.html
+#  - about.html
 
 footer: '<a href="https://0dayprotection.com/">Download</a>'
 
