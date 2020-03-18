@@ -9,6 +9,9 @@ header_pages:
 
 footer: '<a href="https://0dayprotection.com/">Download</a>'
 
+permalink: /about/
+permalink: /contact/
+
 style: dark
 listen_for_clients_preferred_style: false
 
