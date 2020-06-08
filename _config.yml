@@ -7,7 +7,7 @@ header_pages:
   - about/about.html
   - contact/contact.html
 
-footer: '<a href="https://www.0dayprotection.com/">Download</a>'
+footer: '<a href="https://www.0dayprotection.com/">Home</a>'
 
 style: dark
 listen_for_clients_preferred_style: false
